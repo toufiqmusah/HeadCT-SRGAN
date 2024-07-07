@@ -22,6 +22,6 @@ In medical imaging, especially in CT scans, there's a critical balance between i
 
 ## Acknowledgments
 
-DigitalSreeni - https://www.youtube.com/@DigitalSreeni
-Aladdin Persson - https://www.youtube.com/@AladdinPersson
+- DigitalSreeni - https://www.youtube.com/@DigitalSreeni
+- Aladdin Persson - https://www.youtube.com/@AladdinPersson
 ---
